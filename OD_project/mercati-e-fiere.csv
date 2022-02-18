@@ -1,0 +1,253 @@
+denominazione;tipologia;tipologia_mercato;ubicazione;specializzazione;numero_chioschi_alimentari;numero_chioschi_non_alimentari;numero_chioschi_misti;numero_chioschi_non_definiti;numero_chioschi_prodotti_agricoli;giorni_svolgimento;orario_svolgimento;geopoint
+VIA MAZZONI (MERCATO RIONALE);mercato;mercato diffuso B;via Mazzoni (mercato rionale);;;;;1;;Mercoledì;;44.47151331071806, 11.384401637330981
+VIA MURRI (MERCATO RIONALE);mercato;mercato diffuso B;via Murri (mercato rionale);;;;;1;;Lunedì-sabato;;44.4740645518878, 11.368398217110979
+CHIESA NUOVA;mercato;rionale;via Murri;alimentare;14;;1;;;Lunedì-sabato;07:30-19:30;44.47423377043069, 11.36835549267351
+VIA CALABRIA;mercato;mercato diffuso B;via Calabria (tra via Bellaria e via Brenta);;;;;1;;Lunedì-venerdì;;44.476144689744764, 11.386492413165596
+PIAZZA LAMBRAKIS;mercato;mercato diffuso B;piazza Lambrakis;;;;;1;;sabato;;44.47696215733018, 11.397017290743722
+VIA DEGLI ORTI 3/A;mercato;mercato diffuso A;Via degli Orti 3/a;piante e fiori;;;;1;;Lunedì-domenica;;44.47885931916832, 11.365873797076649
+LARGO CARDINAL LERCARO (NEI GG. DI MERCATO);mercato;a turno giornaliero;Largo Lercaro;;;;;1;;Lunedì-sabato;;44.47938846864974, 11.371444687487308
+LARGO CARDINALE LERCARO;mercato;periodico;Largo Cardinale Lercaro;;;;;20;;Mercoledì;08:00-13:00;44.479446553594684, 11.371392321725505
+LARGO CARDINAL LERCARO (NEI GG. DI MERCATO);mercato;a turno giornaliero;Largo Lercaro;;;;;1;;Lunedì-sabato;;44.4794811042719, 11.37139318503875
+INTERNO GIARDINI MARGHERITA (LATO VIALE MELICONI);mercato;stagionale;giardini Margherita (lato Viale Meliconi);"prodotti alimentari limitatamente a dolciumi e pop corn, bibite e caffè; prodotti non alimentari limitatamente a giocattoli; caldarroste";;;;;;01 ottobre-31 marzo, giovedì, venerdì, sabato, festivi;;44.48398352594404, 11.355808272252649
+GIARDINI MARGHERITA;mercato;mercato diffuso A;Giardini Margherita;alimentare;;;;1;;Lunedì-domenica;;44.483986547624205, 11.355797199438104
+VIA JACOPO DELLA LANA FRONTE CIVICO 11/2;mercato;mercato diffuso A;Via Jacopo della Lana fronte civico 11/2;piante e fiori;;;;1;;Lunedì-domenica;;44.48535097071564, 11.360103270151615
+PIAZZA DI PORTA SAN MAMOLO;mercato;rionale;piazza di Porta San Mamolo;alimentare;5;1;1;;;Lunedì-sabato;07:30-19:30;44.48654327460379, 11.340064203479843
+PIAZZA CARDUCCI;mercato produttori agricoli;a turno giornaliero;piazza Carducci;prodotti agricoli;;;;;;Domenica;09:00-13:30;44.48780356084532, 11.35691316790384
+VIA VENTUROLI ANG. VERMIGLIA (INTERNO GIARDINO);mercato;stagionale;Via Venturoli ang. Vermiglia (interno giardino);prodotti alimentari limitatamente a cocomeri, meloni, macedonie, frullati, gelati industriali, piadine, tigelle, crepes, bibite;;;;;;aprile-ottobre;;44.49083850181378, 11.372280105194484
+MERCATO ANTIQUARIO CITTÀ DI BOLOGNA;mercato;periodico;piazza Santo Stefano;antiquariato;;;;83;;Seconda domenica e sabato antecedente di ogni mese escluso luglio ed agosto;Invernale 08:30-18:00 estivo 08:30-19:00;44.4923321758439, 11.348223676639167
+VIA MASSARENTI (FRONTE PARCHEGGIO COOP);mercato;a turno giornaliero;via Massarenti;;;;;1;;Lunedì-sabato;;44.4923322173062, 11.364533060869357
+VIA DELLA BARCA 1/2D;mercato;mercato diffuso A;Via della Barca 1/2d;piante e fiori;;;;1;;Lunedì-domenica;;44.49362309221179, 11.304028783323382
+FIERA DI CARNEVALE;fiera;periodico;piazza Maggiore (Orologio);;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49370057772143, 11.342355538369263
+VIA DELLA BARCA 1/3E;mercato;mercato diffuso A;Via della Barca 1/3e;piante e fiori;;;;1;;Lunedì-domenica;;44.493813541620185, 11.303872418593738
+FIERA DI CARNEVALE;fiera;periodico;piazza Maggiore angolo piazza Nettuno;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49404884488709, 11.342776421253033
+VIA RIZZOLI 5/A;mercato;stagionale;Via Rizzoli 5/A;piante e fiori, articoli per la cura delle piante, oggettistica, biglietti di rappresentanza;;;;;;01 dicembre-02 gennaio, 14 febbraio, 8 marzo, festa della mamma, settimana precedente Pasqua;;44.49438733153563, 11.344944638032153
+VIA RIZZOLI ANG. PIAZZA RE ENZO;mercato;stagionale;Via Rizzoli ang. Piazza Re Enzo;Specializzato nella vendita di caldarroste e mistocchine/pannocchie;;;;;;20 settembre-15 marzo;;44.494517616631015, 11.343995996093375
+PIAZZA SAN FRANCESCO;mercato;periodico;piazza San Francesco;piante e fiori;;;;5;;Martedì;08:00-13:00;44.495030702392164, 11.334950825427603
+PIAZZA CAPITINI;mercato;a turno giornaliero;piazza Capitini;;;;;1;;Martedì;;44.4951054001701, 11.293281870460515
+FIERA DI CARNEVALE;fiera;periodico;via Indipendenza angolo via Montegrappa;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49543380597853, 11.342645717509752
+VIA DI VITTORIO;mercato;mercato diffuso B;via Di Vittorio (a fianco chiosco gelati);;;;;1;;venerdì;;44.49546878085296, 11.2889846335519
+FIERA DI CARNEVALE;fiera;periodico;via Indipendenza 4;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49549249151505, 11.342630739369461
+CIRENAICA;mercato;rionale;via Sante Vincenzi;alimentare;7;3;1;;;Lunedì-sabato;07:30-19:30;44.4960683373693, 11.363934582712414
+VIA SANTE VINCENZI (M.R.);mercato;mercato diffuso B;via Sante Vincenzi;;;;;1;;Martedì, Mercoledì, venerdì;;44.49612123322031, 11.364228094872514
+VIA SANTE VINCENZI (M.R.);mercato;mercato diffuso B;via Sante Vincenzi;;;;;1;;Lunedì, Giovedì, venerdì;;44.496137390521284, 11.36423902272046
+FIERA DI CARNEVALE;fiera;periodico;via Indipendenza 17;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.496785375404684, 11.343222660210524
+FIERA DI PASQUA;fiera;periodico;via Indipendenza angolo via Goito;Dolciumi;1;;;;;dal sabato precedente la domenica delle Palme al Lunedì di Pasqua;08:30-20:00;44.49702650959798, 11.343303584107936
+VIA RIVA RENO ANG. S. FELICE;mercato;mercato diffuso A;Via Riva Reno ang. S. Felice;piante e fiori;;;;1;;Lunedì-domenica;;44.498060569927134, 11.331364169990577
+VIA V.VENETO (M.R.);mercato;a turno giornaliero;via Veneto;;;;;1;;Lunedì-sabato;;44.498221374325055, 11.319786880722743
+LARGO VITTIME DEI LAGER NAZISTI;mercato;stagionale;Largo Vittime dei Lager Nazisti (nell’area pedonale tra i civici 8 e 6 – zona chioschi marmisti);piante e fiori, articoli per la cura delle piante, articoli funerari e religiosi, biglietti di rappresentanza ed oggettistica, purché la stessa costituisca accessorio della composizione floreale ed abbia valore  inferiore rispetto a quest'ultima;;;;;;25 ottobre-04 novembre;;44.498369656893765, 11.308759264035059
+VIA VITTORIO VENETO;mercato;mercato diffuso B;via Vittorio Veneto (mercato rionale);;;;;1;;mercoledì, giovedì, sabato;;44.49839437734255, 11.319914119112207
+VIA VITTORIO VENETO;mercato;rionale;via Vittorio Veneto;alimentare;9;4;2;;;Lunedì-sabato;07:30-19:30;44.4986216012658, 11.320051062225858
+VIALE SALVEMINI ANGOLO VIA ROTTA;mercato;stagionale;Viale Salvemini angolo Via Rotta;prodotti alimentari;;;;;;01 ottobre-30 maggio, venerdì-sabato;;44.49963491479495, 11.274489259976217
+PIAZZA VIII AGOSTO;mercato;mercato diffuso B;piazza VIII Agosto (porzione via Indipendenza);;;;;1;;Lunedì;;44.4999656606932, 11.344274640757591
+PIAZZA VIII AGOSTO;mercato;mercato diffuso B;piazza VIII Agosto (porzione via Indipendenza);;;;;1;;Lunedì-mercoledì;;44.5000138063398, 11.344217115751047
+LA PIAZZOLA;mercato;periodico;piazza VIII Agosto;non alimentare;;;;290;;Sabato;08:00-17:00;44.500282393938974, 11.345255376173341
+VIA PAOLO FABBRI;mercato produttori agricoli;a turno giornaliero;via Paolo Fabbri;prodotti agricoli;;;;;;Martedì;Estivo: 18:00-22:00 Invernale: 17:30-20:30;44.50046264268147, 11.361322641497436
+PIAZZA DELL'OTTO AGOSTO;mercato;a turno giornaliero;Piazza dell’Otto Agosto;;;;;1;;Lunedì, Martedì, Mercoledì;;44.50066480461564, 11.345408614421247
+PIAZZA DELL'OTTO AGOSTO;mercato;a turno giornaliero;Piazza dell’Otto Agosto;;;;;1;;Lunedì, Martedì, Mercoledì;;44.50070454898147, 11.34527522997796
+FIERA DI CARNEVALE;fiera;periodico;via Indipendenza angolo via Irnerio;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.50105889311186, 11.344594722990397
+PIAZZA DEI MARTIRI (TRATTO COMPRESO TRA VIA MARCONI E VIA DEI MILLE);mercato;a turno giornaliero;piazza dei Martiri;;;;;1;;Lunedì-sabato;;44.501659613752864, 11.339891416922
+VIA TARTINI (C/O MERCATO) FRONTE CIVICO 3;mercato;mercato diffuso A;Via Tartini (c/o mercato) fronte civico 3;frutta verdura;;;;1;;Lunedì-sabato;;44.50198152056846, 11.362501075551908
+VIA TARTINI (C/O MERCATO) FRONTE CIVICO 3;mercato;mercato diffuso A;Via Tartini (c/o mercato) fronte civico 3;frutta verdura;;;;1;;Lunedì-sabato;;44.50202925474815, 11.362440456683716
+VIA CADUTI DI CASTELDEBOLE;mercato;periodico;via Caduti di Casteldebole;;;;;10;;Domenica;08:00-13:00;44.50207557335772, 11.27843743873994
+VIA TARTINI;mercato;mercato diffuso B;Via Tartini (c/o mercato S. Donato);;;;;1;;martedì;;44.50212582285144, 11.362329371557534
+VIA BEROALDO ANG. VIA DELL'ARTIGIANO;mercato;a turno giornaliero;via Beroaldo;;;;;1;;Lunedì-sabato;07:00-14:00;44.50271899507372, 11.366433956655213
+GIARDINO GANDOLFI;mercato;a turno giornaliero;Giardino Gandolfi;;;;;1;;Giovedì;;44.502940483870546, 11.374366662249843
+GIARDINO GANDOLFI;mercato;a turno giornaliero;Giardino Gandolfi;;;;;1;;Giovedì;;44.502980868460064, 11.374508751069405
+GIARDINO GANDOLFI;mercato;a turno giornaliero;Giardino Gandolfi;;;;;1;;Giovedì;;44.50298344136237, 11.3743845920377
+VIA E.PONENTE 14/A-B;mercato;a turno giornaliero;via Emilia Ponente;;;;;1;;Lunedì-sabato;;44.50366330110827, 11.314441589535864
+VIA DEL MURATORE ANG. VIA DEL LITOGRAFO;mercato;giornaliero periferico;Via Del Muratore ang. Via del Litografo;prodotti alimentari;;;;;;tutti i giorni compresi i festivi;;44.50627213646812, 11.413904742128429
+VIA MATTEOTTI 18;mercato;mercato diffuso A;Via Matteotti 18;piante e fiori;;;;1;;Lunedì-domenica;;44.508324198468024, 11.3464096005792
+AREA STERRATA TRA VIA SABENA E VIA PRATI DI CAPRARA;mercato;stagionale;Area sterrata tra Via Sabena e Via Prati di Caprara;prodotti alimentari;;;;;;Lunedì-sabato, marzo-novembre;;44.50836247473653, 11.310853978081784
+VIA EMILIA PONENTE (C/O MERCATO);mercato;mercato diffuso B;via Emilia Ponente;;;;;1;;Lunedì-sabato;;44.50878422367747, 11.296686778191361
+MERCATO DELL’ANTIQUARIATO;mercato;periodico;via Matteotti;antiquariato e modernariato;;;;7;;Primo martedì di ogni mese ad esclusione di luglio e agosto. Terzo martedì di ogni mese ad esclusione di gennaio, febbraio, luglio, agosto;Invernale 08:30-17:00 estivo 08:30-18:00;44.508965619415484, 11.346655657881893
+VIA DI VINCENZO FRONTE CIVICI 26-28;mercato;a turno giornaliero;via Di Vincenzo;;;;;1;;Lunedì-sabato;;44.51004605106877, 11.344612895394402
+VIA ALBANI (M.R.);mercato;a turno giornaliero;via Albani;;;;;1;;Lunedì-sabato;;44.510271650476305, 11.344204488203387
+VIA ALBANI (M.R.);mercato;mercato diffuso B;via Albani presso mercato rionale;;;;;1;;Lunedì, mercoledì, giovedì, venerdì;;44.51033336775619, 11.343762486639282
+VIA ALBANI (M.R.);mercato;mercato diffuso B;via Albani presso mercato rionale;;;;;1;;Lunedì-sabato;;44.510334417257944, 11.343720432083513
+VIALE ALDO MORO;mercato;mercato diffuso B;viale Aldo Moro;;;;;1;;venerdì;;44.51035725190106, 11.360387933946399
+PIAZZA DELLA COSTITUZIONE;mercato;stagionale;Piazza della Costituzione;prodotti alimentari;;;;;;manifestazioni fieristiche e non che si svolgono presso l’Ente Fiera;;44.51096933860025, 11.361534260303737
+VIA PIRANDELLO;mercato;a turno giornaliero;via Pirandello  (parcheggio Circolo La Fattoria);;;;;1;;Lunedì-sabato;;44.51197129816889, 11.389215661578294
+VIA PIRANDELLO;mercato;a turno giornaliero;via Pirandello 6;;;;;1;;Lunedì-sabato;;44.51199190234085, 11.38915422817082
+PIAZZA DELLA COSTITUZIONE;mercato;stagionale;Piazza della Costituzione;prodotti alimentari;;;;;;manifestazioni fieristiche e non che si svolgono presso l’Ente Fiera;;44.51218320299701, 11.359922352057138
+PIAZZA DELLA COSTITUZIONE;mercato;stagionale;Piazza della Costituzione;prodotti alimentari;;;;;;manifestazioni fieristiche e non che si svolgono presso l’Ente Fiera;;44.51222475406404, 11.359815880222007
+VIA MICHELINO;mercato;stagionale;via Michelino presso parcheggio Comet;prodotti alimentari;;;;;;manifestazioni fieristiche e non che si svolgono presso l’Ente Fiera;;44.51444275934954, 11.372590712795509
+CIMITERO DI BORGO PANIGALE INTERNO PARCHEGGIO CON ACCESSO DA VIA CAVALIERI DUCATI, NEI PRESSI DEI PARCHEGGI RISERVATI HANDICAP;mercato;stagionale;Cimitero di Borgo Panigale;piante e fiori, articoli per la cura delle piante, articoli funerari e religiosi, biglietti di rappresentanza ed oggettistica, purché la stessa costituisca accessorio della composizione floreale ed abbia valore  inferiore rispetto a quest'ultima;;;;;;25 ottobre-04 novembre;;44.51583841071937, 11.272265039092499
+VIA MANUZIO;mercato;periodico;via Milani-via Marco Emilio Lepido;;;;;27;1;Mercoledì;08:00-13:00;44.5175934425362, 11.276283099351057
+VIA BOMBELLI;mercato;mercato diffuso B;via Bombelli angolo via Nani;;;;;1;;Lunedì-sabato;;44.519064019167885, 11.276333691048357
+VIA LONDON;mercato;a turno giornaliero;via London fronte civico 2;;;;;1;;Martedì, Mercoledì, Venerdì, Sabato;;44.54639873155786, 11.356710071766964
+VIA STALINGRADO 85;mercato;stagionale;via Stalingrado 85;prodotti alimentari limitatamente a cocomeri, meloni, gelati, panini, piadine, bibite, birra, crescentine, tigelle, carne alla piastra, caffè;;;;;;15 aprile-15 ottobre;;44.52668740381657, 11.366542701004853
+VIA CALORI ANGOLO NANNETTI;mercato;stagionale;via Calori angolo Nannetti;prodotti alimentari;;;;;;manifestazioni sportive e non che si svolgono al Paladozza;;44.50060233478311, 11.331560054298663
+VIA DELLA CERTOSA;mercato;stagionale;via della Certosa;prodotti alimentari;;;;;;In occasione delle manifestazioni sportive e non che si svolgono presso lo Stadio Comunale;;44.49465503123423, 11.31079945662806
+VIA CRISTOFORO COLOMBO;mercato;stagionale;Via Cristoforo Colombo;prodotti alimentari;;;;;;01 ottobre-30 maggio, lunedì-giovedì;;44.53247662774228, 11.337044421201101
+PIAZZA GIOVANNI XXIII;mercato;a turno giornaliero;piazza Giovanni XXIII;;;;;1;;Lunedì-sabato;;44.49573728422034, 11.285238867068571
+VIA TOSCANA;mercato;rionale;via Toscana;alimentare;10;1;;;;Lunedì-sabato;07:30-19:30;44.45674643681424, 11.369694258498255
+V.BENEDETTO MARCELLO (C/O SUPERMERCATO FOSCHERARA);mercato;a turno giornaliero;via Marcello;;;;;1;;Lunedì-sabato;;44.46794255986522, 11.37675775576104
+VIA B.MARCELLO;mercato;a turno giornaliero;via Marcello;;;;;1;;Lunedì-sabato;;44.467963722639816, 11.376753039461272
+VIA PIEVE DI CADORE;mercato produttori agricoli;a turno giornaliero;via Pieve di Cadore;prodotti agricoli;;;;;;Venerdì;Estivo: 18:00-21:00 Invernale: 17:00-20:00;44.46915990583196, 11.387230341859937
+MAZZONI;mercato;rionale;via Mazzoni;alimentare;8;1;1;;;Lunedì-sabato;07:30-19:30;44.47148884685521, 11.384140954118179
+VIA MAZZONI (MERCATO RIONALE);mercato;mercato diffuso B;via Mazzoni (mercato rionale);;;;;1;;Mercoledì;;44.47150551083168, 11.384480879344151
+VIA ARNO PRESSO L'INTERSEZIONE CON VIA FAENZA (CORSELLO PEDONALE INTERNO);mercato;a turno giornaliero;via Arno angolo via Faenza;;;;;1;;Lunedì-sabato;;44.47378702918001, 11.388353032677546
+VIA MURRI/CHIESA NUOVA (M.R.);mercato;a turno giornaliero;via Murri;;;;;1;;Lunedì-sabato;;44.4740660183295, 11.368413025241418
+VIA DALLOLIO 10;mercato;mercato diffuso A;Via Dallolio 10;piante e fiori;;;;1;;Lunedì-domenica;;44.47568582275771, 11.395864117938846
+PIAZZA LAMBRAKIS;mercato;periodico;piazza Lambrakis;alimentare;5;;;5;;Martedì;08:00-13:00;44.476881381014095, 11.39711243988571
+VIA DI MONTE ALBANO FRONTE CIV. 5/2;mercato;stagionale;Via di Monte Albano fronte civ. 5/2;prodotti alimentari;;;;;;Festivi ad esclusione dei mesi di novembre, dicembre, gennaio, luglio ed agosto;;44.478512610652544, 11.29482826480043
+LARGO CARDINAL LERCARO;mercato produttori agricoli;a turno giornaliero;largo Cardinal Lercaro;prodotti agricoli;;;;;;sabato;08:00-13:30;44.47937205109642, 11.371451122239009
+LARGO CARDINAL LERCARO (NEI GG. DI MERCATO);mercato;a turno giornaliero;Largo Lercaro;;;;;1;;Lunedì-sabato;;44.47937950985929, 11.371354403247286
+VIA DAGNINI A RIDOSSO PIAZZA LERCARO;mercato;a turno giornaliero;via Dagnini;;;;;1;;Lunedì-sabato;07:00-19:00;44.47984847680256, 11.370111825142057
+VIA SIGONIO (M.R.);mercato;a turno giornaliero;via Sigonio mercato rionale;;;;;1;;Lunedì-sabato;;44.48339446552493, 11.372226774392377
+VIA SIGONIO (M.R.);mercato;a turno giornaliero;via Sigonio mercato rionale;;;;;1;;Lunedì-sabato;;44.48341884325215, 11.37225012224661
+VIA SIGONIO;mercato;mercato diffuso B;via Sigonio (mercato rionale);;;;;1;;Lunedì, Giovedì, Sabato;;44.48353587308019, 11.372242077105454
+VIALE BOTTONELLI;mercato;mercato diffuso B;viale Bottonelli (fronte Chalet);;;;;1;;Giovedì-domenica (inclusi festivi);;44.48354840462465, 11.353727499853415
+FIERA DI S. ANTONIO;fiera;periodico;via Guinizelli;Dolciumi;3;;;;;13 giugno;;44.48599287596913, 11.358255634282305
+PIAZZA TRENTO E TRIESTE;mercato;stagionale;piazza Trento e Trieste;Vendita di alberi di Natale, vischio, composizioni floreali;;;;;;6-24 dicembre;;44.48750606099422, 11.361412712641675
+VIA VENTUROLI FRONTE CIV. 61/B-C;mercato;a turno giornaliero;via Venturoli;;;;;1;;Lunedì-sabato;;44.490590497102815, 11.37224890114728
+PIAZZA DELLA PACE;mercato produttori agricoli;a turno giornaliero;piazza della Pace (trasferimento temporaneo da via Felice Battaglia);prodotti agricoli;;;;;;Mercoledì;08:00-13:30;44.492134207811105, 11.311544310624155
+VIA MASSARENTI ANG. ALBERTONI;mercato;mercato diffuso A;Via Massarenti ang. Albertoni;piante e fiori;;;;1;;Lunedì-domenica;;44.492138950904064, 11.364232883630887
+VIA MASSARENTI;mercato;stagionale;via Massarenti 116/118;prodotti alimentari limitatamente a cocomeri, meloni, ciliegie;;;;;;01 giugno-31 agosto;;44.49269969825348, 11.366257130131716
+VIA DELLA BARCA 1/3A;mercato;mercato diffuso A;Via della Barca 1/3a;piante e fiori;;;;1;;Lunedì-domenica;;44.49346052733241, 11.303743006855793
+PIAZZA ALDROVANDI;mercato;rionale;piazza Aldrovandi;alimentare;14;2;;;;Lunedì-sabato;07:30-19:30;44.493465549792006, 11.351868802163143
+VIA DELLA BARCA 1/2B;mercato;mercato diffuso A;Via della Barca 1/2b;piante e fiori;;;;1;;Lunedì-domenica;;44.493481672634765, 11.30398658240106
+VICOLO BOLOGNETTI 2;mercato produttori agricoli;a turno giornaliero;vicolo Bolognetti 2;prodotti agricoli;;;;;;Mercoledì;14:30-21:00;44.493516064617324, 11.35459610784478
+VIA DELLA BARCA 1/3B;mercato;mercato diffuso A;Via della Barca 1/3b;piante e fiori;;;;1;;Lunedì-domenica;;44.49353757705107, 11.303768573762033
+VIA DELLA BARCA 1/3C;mercato;mercato diffuso A;Via della Barca 1/3c;piante e fiori;;;;1;;Lunedì-domenica;;44.49362460688722, 11.303796074974773
+VIA ANDREA COSTA;mercato;mercato diffuso B;via Andrea Costa (di fronte all’entrata principale dello stadio);alimentare;;;;1;;Lunedì-domenica;;44.493688450202214, 11.309828536157328
+VIA DELLA BARCA 1/3D;mercato;mercato diffuso A;Via della Barca 1/3d;piante e fiori;;;;1;;Lunedì-domenica;;44.4937300156557, 11.303838314346159
+FIERA DELL'EPIFANIA;fiera;periodico;via Rizzoli 5/B;Dolciumi;1;;;;;2-6 gennaio – se l’Epifania cade di venerdì o sabato viene prolungata fino alla domenica;08:00-20:00;44.494400708403816, 11.34490046812948
+FIERA DI CARNEVALE;fiera;periodico;piazza Nettuno (fronte Agenzia viaggi);;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49471480319766, 11.343086181754195
+FIERA DELL'EPIFANIA;fiera;periodico;via Ugo Bassi;Dolciumi;1;;;;;2-6 gennaio – se l’Epifania cade di venerdì o sabato viene prolungata fino alla domenica;08:00-20:00;44.49493064231615, 11.342390697099775
+VIA UGO BASSI 1/E;mercato;mercato diffuso A;Via Ugo Bassi 1/e;piante e fiori;;;;1;;Lunedì-domenica;;44.49503862324882, 11.342277152723168
+FIERA DELL'EPIFANIA;fiera;periodico;via Indipendenza 2;Dolciumi;1;;;;;2-6 gennaio – se l’Epifania cade di venerdì o sabato viene prolungata fino alla domenica;08:00-20:00;44.49520621628919, 11.342636198743325
+FIERA DI NATALE;fiera;periodico;via Altabella;;2;19;;;;dal penultimo venerdì di Novembre al 6 Gennaio;09:30-20:00;44.495308054329, 11.344295711441625
+FIERA DI SANTA RITA;fiera;periodico;Via Zamboni, Piazza Rossini e P.zza Verdi;;3;7;;;;22 maggio;08:00-20:00;44.49539678891005, 11.3487934229147
+FIERA DELL'EPIFANIA;fiera;periodico;via Indipendenza angolo via Montegrappa;Dolciumi;1;;;;;2-6 gennaio – se l’Epifania cade di venerdì o sabato viene prolungata fino alla domenica;08:00-20:00;44.495415618145756, 11.342725276655589
+VIA MARCONI FRONTE CIVICO 10/A;mercato;mercato diffuso A;Via Marconi fronte civico 10/a;Libri;;;;1;;Lunedì-sabato;;44.496654656502464, 11.337269752841571
+FIERA DELL'EPIFANIA;fiera;periodico;via Indipendenza angolo via Goito;Dolciumi;1;;;;;2-6 gennaio – se l’Epifania cade di venerdì o sabato viene prolungata fino alla domenica;08:00-20:00;44.49703568769749, 11.34323020271934
+FIERA DI CARNEVALE;fiera;periodico;via Indipendenza 31;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49807489778016, 11.343598460497724
+FIERA DI PASQUA;fiera;periodico;via Indipendenza 31;Dolciumi;1;;;;;dal sabato precedente la domenica delle Palme al Lunedì di Pasqua;08:30-20:00;44.498079468951765, 11.343592467795263
+VIA VITTORIO VENETO;mercato;mercato diffuso B;via Vittorio Veneto (mercato rionale);;;;;1;;Lunedì-giovedì;;44.498362924676016, 11.319893538078587
+VIA V.VENETO C/O MERCATO RIONALE - UTILIZZO DEL POSTO 24/B DEL MERCATO CITTADINO DIFFUSO;mercato;a turno giornaliero;via Veneto;;;;;1;;Martedì, Venerdì;;44.49855044080574, 11.319983917337817
+VIA DEL CARROZZAIO ANG. VIA DEL CERAMISTA;mercato;giornaliero periferico;Via del Carrozzaio ang. Via del Ceramista;prodotti alimentari;;;;;;tutti i giorni compresi i festivi;;44.4987699037486, 11.397047609104016
+PIAZZA VIII AGOSTO;mercato;mercato diffuso B;piazza VIII Agosto (porzione via Indipendenza);;;;;1;;Lunedì-mercoledì;;44.4999732796821, 11.344407930279015
+VIA LARGA FRONTE CIVICO 29/A;mercato;giornaliero periferico;Via Larga fronte civico 29/a;prodotti alimentari;;;;;;tutti i giorni compresi i festivi;;44.49999132246934, 11.39532236865196
+PIAZZA VIII AGOSTO;mercato;periodico;piazza VIII Agosto-lato via Indipendenza;antiquariato e modernariato;;;;21;;Giovedì;Invernale 08:30-17:00 estivo 08:30-18:00;44.500029172233965, 11.344370520256534
+PIAZZA VIII AGOSTO;mercato;mercato diffuso B;piazza VIII Agosto (porzione via Indipendenza);;;;;1;;mercoledì;;44.5000610725468, 11.344238478850142
+FIERA DI CARNEVALE;fiera;periodico;via Indipendenza 53;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.50019249184188, 11.344252075863588
+PIAZZA DELL'OTTO AGOSTO;mercato;a turno giornaliero;Piazza dell’Otto Agosto;;;;;1;;Lunedì, Martedì, Mercoledì;;44.50067212717445, 11.345392355282609
+PIAZZA DELL'OTTO AGOSTO;mercato;a turno giornaliero;Piazza dell’Otto Agosto;;;;;1;;Lunedì, Martedì;;44.500698744520335, 11.345309336335422
+VIA DEL PORTO ANG. MARCONI;mercato;mercato diffuso A;Via del Porto ang. Marconi;piante e fiori;;;;1;;Lunedì-domenica;;44.50140956177131, 11.339388444570446
+VIA MONTEBELLO/MILLE;mercato;a turno giornaliero;via Motebello;;;;;1;;Lunedì-sabato;;44.50158322965226, 11.342088135442507
+PIAZZA DEI MARTIRI (TRA LE VIE DEI MILLE E MARCONI);mercato;mercato diffuso B;Piazza dei Martiri;;;;;1;;Domenica;;44.501676572902106, 11.339922077354002
+PIAZZA DEI MARTIRI (TRA LE VIE DEI MILLE E AMENDOLA, NELL'AREA DI TRANSITO PEDONALE);mercato;mercato diffuso A;Piazza dei Martiri (tra le vie dei Mille e Amendola, nell'area di transito pedonale);non alimentare;;;;1;;Lunedì-domenica;;44.50228799253194, 11.340545722782146
+GANDOLFI;mercato;periodico;via Beolco-via Andreini-via Cuccoli;;;;;23;1;Giovedì;08:00-13:00;44.50293196699699, 11.37446841078336
+VIALE SALVEMINI;mercato;mercato diffuso B;Viale Salvemini (centro commerciale Casteldebole);;;;;1;;sabato;;44.503457068848085, 11.27819374370257
+VIA SEGANTINI;mercato produttori agricoli;a turno giornaliero;via Segantini;prodotti agricoli;;;;;;Mercoledì;14:30-18:30;44.503575094490316, 11.304087027035495
+LARGO NIGRISOLI;mercato;mercato diffuso B;Largo Nigrisoli;;;;;1;;Lunedì-domenica e festivi;;44.503853924019324, 11.314948182838172
+VIA EMILIA PONENTE (C/O MERCATO);mercato;mercato diffuso B;via Emilia Ponente;;;;;1;;Lunedì-sabato;;44.5087403749676, 11.296802137099128
+VIA DI VINCENZO FRONTE CIVICI 26-28;mercato;mercato diffuso B;via Di Vincenzo;;;;;1;;Lunedì, mercoledì, venerdì, sabato;;44.51005269803471, 11.34458551680223
+ALBANI;mercato;rionale;via Francesco Albani;alimentare;24;2;2;;;Lunedì-sabato;07:30-19:30;44.51029634946918, 11.344008111692267
+VIA DI VINCENZO;mercato;mercato diffuso B;via Di Vincenzo;;;;;1;;Lunedì-sabato;;44.51030978340781, 11.344717817759848
+VIA ALBANI (M.R.);mercato;a turno giornaliero;via Albani;;;;;1;;Lunedì-sabato;;44.51031814660363, 11.343850366248748
+VIA ALBANI (M.R.);mercato;a turno giornaliero;via Albani;;;;;1;;Lunedì-sabato;;44.5103330242993, 11.3437669735386
+VIA ALBANI (M.R.);mercato;mercato diffuso B;via Albani presso mercato rionale;;;;;1;;Martedì-sabato;;44.51033692502913, 11.343808425200672
+VIA GOBETTI;mercato produttori agricoli;a turno giornaliero;via Gobetti;prodotti agricoli;;;;;;Giovedì;Estivo: 18:00-21:00 Invernale: 17:30-20:30;44.51296411532376, 11.340187136285868
+VIA MANUZIO;mercato;a turno giornaliero;c/o Mercato periodico Via Miliani area parcheggio pubblico posta tra le vie Miliani e Marco Emilio Lepido posto 8 al mercoledì;;;;;1;;Mercoledì;;44.51766229971308, 11.276409096425915
+VIA NORMANDIA (AREA PEDONALE TRA VIA NORMANDIA E VIA CARROCCIO);mercato;mercato diffuso B;Via Normandia (area pedonale tra via Normandia e via Carroccio);;;;;1;;Martedì;;44.522316543831984, 11.264153863812611
+VIA LONDON ANGOLO VIA BENTINI;mercato;mercato diffuso B;via London angolo via Bentini;;;;;1;;giovedì;;44.54641798082454, 11.35665293786893
+VIA BENTINI ANGOLO VIA SANT’ANNA;mercato produttori agricoli;a turno giornaliero;via Bentini angolo via Sant’Anna;prodotti agricoli;;;;;;Giovedì;08:30-13:00;44.54828676323708, 11.356578365916882
+VIA PO (FRA PALO LUCE N. 18 E N. 20);mercato;stagionale;Via Po (fra palo luce n. 18 e n. 20);piante e fiori, articoli per la cura delle piante, oggettistica, biglietti di rappresentanza;;;;;;01 dicembre-02 gennaio, 14 febbraio, 8 marzo, festa della mamma;;44.477585463050055, 11.379761616891296
+VIA DELLA CERTOSA;mercato;stagionale;via della Certosa;prodotti alimentari;;;;;;In occasione delle manifestazioni sportive e non che si svolgono presso lo Stadio Comunale;;44.49507478096224, 11.31073044177819
+VIA DELLA CERTOSA;mercato;stagionale;via della Certosa;Articoli sportivi;;;;;;In occasione delle manifestazioni sportive e non che si svolgono presso lo Stadio Comunale;;44.49500482265179, 11.310744971338687
+VIA DELLA CERTOSA NEL TRATTO INTERDETTO ALLA CIRCOLAZIONE, PARALLELO A VIALE GANDHI;mercato;stagionale;Via della Certosa nel tratto interdetto alla circolazione, parallelo a viale Gandhi;prodotti alimentari;;;;;;In occasione delle manifestazioni sportive e non che si svolgono presso lo Stadio Comunale;;44.49820967569763, 11.309835843493737
+VIA CALZONI;mercato;stagionale;via Calzoni immediate vicinanze ingresso;prodotti alimentari;;;;;;manifestazioni fieristiche e non che si svolgono presso l’Ente Fiera;;44.51424353535674, 11.362710827778063
+VIA MASSARENTI (FRONTE S.ORSOLA/CABINA TELECOM);mercato;a turno giornaliero;via Massarenti;;;;;1;;Lunedì-sabato;;
+VIA TOSCANA (M.R.);mercato;a turno giornaliero;via Toscana;;;;;1;;Lunedì-sabato;;44.45676675311441, 11.369706029189738
+VIA TOSCANA;mercato;mercato diffuso B;via Toscana (mercato rionale);;;;;1;;Lunedì-sabato;;44.45678658684933, 11.369566292799641
+VIA TOSCANA;mercato;mercato diffuso B;via Toscana (mercato rionale);;;;;1;;Martedì-sabato;;44.456796297033954, 11.36958265943669
+VIA MAZZONI (MERCATO RIONALE);mercato;mercato diffuso B;via Mazzoni (mercato rionale);;;;;1;;mercoledì, venerdì;;44.471529923170564, 11.384274692352118
+VIA PIACENZA FRONTE CIV. 3/E-F;mercato;mercato diffuso B;via Piacenza;;;;;1;;venerdì;;44.47468836966819, 11.387580581998648
+VIA PIACENZA FRONTE CIV. 3/E-F;mercato;a turno giornaliero;via Piacenza;;;;;1;;Lunedì, Martedì, Giovedì;;44.474692064766856, 11.387589376934105
+VIA BELLARIA/PAM;mercato;a turno giornaliero;via Bellaria;;;;;1;;Lunedì-sabato;;44.47606181957303, 11.387020614485976
+VIA BELLARIA/PAM;mercato;a turno giornaliero;via Bellaria;;;;;1;;Lunedì-sabato;;44.47611494397331, 11.38694693622629
+VIA BELLARIA/PAM;mercato;a turno giornaliero;via Bellaria;;;;;1;;Lunedì-sabato;;44.47616087074669, 11.386860753988985
+VIA DEGLI ORTI 41 (ADIACENTE EDICOLA);mercato;stagionale;Via Degli Orti 41 (adiacente edicola);piante e fiori, articoli per la cura delle piante, oggettistica, biglietti di rappresentanza;;;;;;01 dicembre-02 gennaio, 14 febbraio, 8 marzo, festa della mamma;;44.476570721208205, 11.372025503898088
+VIA DI MONTE ALBANO FRONTE CIV. 5/2;mercato;stagionale;Via di Monte Albano fronte civ. 5/2;caldarroste e mistocchine;;;;;;01 ottobre-31 gennaio sabato, domenica, festivi;;44.47845924548024, 11.294804438274495
+LARGO CARDINAL LERCARO (NEI GG. DI MERCATO);mercato;a turno giornaliero;Largo Lercaro;;;;;1;;Lunedì-sabato;;44.479402656178856, 11.371402667281531
+VIA DAGNINI ANG. MEZZOFANTI;mercato;mercato diffuso A;Via Dagnini ang. Mezzofanti;piante e fiori;;;;1;;Lunedì-domenica;;44.48132344889638, 11.370890489030268
+VIALE BOTTONELLI;mercato;mercato diffuso B;viale Bottonelli;;;;;1;;Lunedì, Martedì, Giovedì, venerdì, sabato, domenica, festivi;;44.482747428550425, 11.354125586684534
+VIA SIGONIO;mercato;rionale;via Sigonio;alimentare;7;1;1;;;Lunedì-sabato;07:30-19:30;44.48348841760217, 11.372297977815817
+VIA MURRI (DAVANTI SUPERMERCATO METÀ);mercato;a turno giornaliero;via Murri;;;;;1;;Lunedì-sabato;;44.48385676032627, 11.357589199007123
+INTERNO GIARDINI MARGHERITA (LATO VIALE MELICONI);mercato;stagionale;giardini Margherita (lato Viale Meliconi);"prodotti alimentari limitatamente a dolciumi e pop corn, bibite e caffè; prodotti non alimentari limitatamente a giocattoli";;;;;;01 aprile-30 settembre;;44.48398352594404, 11.355808272252649
+VIA PELAGIO PALAGI/ARGELATI (ZONA PEDONALIZZATA);mercato;a turno giornaliero;via Pelagio Palagi;;;;;1;;Lunedì-sabato;;44.489544355831335, 11.366057507703873
+VIA MENGOLI;mercato;a turno giornaliero;via Mengoli;;;;;1;;Lunedì-sabato;;44.49057550567871, 11.372261295343879
+FIERA DI SANTA LUCIA;fiera;periodico;Strada Maggiore (portico monumentale della Chiesa dei Servi);;10;27;;;;dal 17 novembre al 26 dicembre, ad eccezione del posteggio specializzato nella vendita di piante e fiori che svolge l’attività fino al 1 gennaio;09:30-20:00;44.49194910879346, 11.352250358515438
+PIAZZA DE’ CELESTINI 1/A;mercato;stagionale;Piazza De’ Celestini 1/a;caldarroste;;;;;;20 settembre-15 marzo;;44.492267982598044, 11.341878820102016
+VIA MASSARENTI (FRONTE PARCHEGGIO COOP);mercato;a turno giornaliero;via Massarenti;;;;;1;;Lunedì-sabato;;44.49233709990199, 11.364541496979825
+VIA MASSARENTI (FRONTE PARCHEGGIO COOP);mercato;a turno giornaliero;via Massarenti;;;;;1;;Lunedì-sabato;;44.49234478135693, 11.364615470543825
+PIAZZA DELLA PACE;mercato;periodico;piazza della Pace;;;;;21;;Sabato;08:00-13:00;44.49243219692946, 11.311393186732658
+VIA MASSARENTI;mercato;stagionale;via Massarenti 116/118;prodotti alimentari limitatamente a cocomeri, meloni, crescentine fritte;;;;;;20 marzo-15 maggio;;44.49269969825348, 11.366257130131716
+VIA MASSARENTI;mercato;stagionale;via Massarenti 116/118;prodotti alimentari limitatamente a caldarroste;;;;;;01 ottobre-15 dicembre;;44.49269969825348, 11.366257130131716
+VIA BUSACCHI ANG.VIA I. BANDIERA;mercato;a turno giornaliero;via Busacchi;;;;;1;;Lunedì-sabato;;44.49303783166726, 11.313054269300695
+VIA CLAVATURE FRONTE CIVICO 12;mercato;mercato diffuso A;Via Clavature fronte civico 12;frutta verdura miele;;;;1;;Lunedì-sabato;;44.493233543747905, 11.344738613042336
+PIAZZA ALDROVANDI;mercato produttori agricoli;a turno giornaliero;piazza Aldrovandi;prodotti agricoli;;;;;;Domenica;08:30-13:30;44.49330649921922, 11.351860564051998
+VIA DELLA BARCA 1/2C;mercato;mercato diffuso A;Via della Barca 1/2c;piante e fiori;;;;1;;Lunedì-domenica;;44.49356347096599, 11.30401105793075
+VIA MASSARENTI 412;mercato;mercato diffuso A;Via Massarenti 412;piante e fiori;;;;1;;Lunedì-domenica;;44.49364086725308, 11.382887930731572
+VIA DELLA BARCA 1/2E;mercato;mercato diffuso A;Via della Barca 1/2e;piante e fiori;;;;1;;Lunedì-domenica;;44.49369162638943, 11.304057080784858
+FIERA DI CARNEVALE;fiera;periodico;piazza Maggiore (lato palazzo del Podestà);;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49397284640187, 11.34317833810122
+FIERA DELL'ANTIQUARIATO;fiera;periodico;voltone del Podestà;;;10;;;;12-24 dicembre;08:30-19:00;44.49422536207161, 11.343273431786267
+VIA GRANDI ANGOLO VIA GIOVANNI XXIII;mercato produttori agricoli;a turno giornaliero;via Grandi angolo via Giovanni XXIII;prodotti agricoli;;;;;;Venerdì;08:30-13:30;44.49423712910909, 11.28475578941096
+FIERA DI PASQUA;fiera;periodico;via Rizzoli 5/B;Dolciumi;1;;;;;dal sabato precedente la domenica delle Palme al Lunedì di Pasqua;08:30-20:00;44.49441572637108, 11.344945021825266
+FIERA DI CARNEVALE;fiera;periodico;piazza Nettuno (fronte Agenzia viaggi);;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49470870690707, 11.343075419624515
+PIAZZA CAPITINI;mercato;mercato diffuso B;piazza Capitini (mercato periodico);;;;;1;;martedì;;44.494890744912894, 11.293394529088708
+FIERA DI CARNEVALE;fiera;periodico;via Indipendenza 3;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49491767911675, 11.34286699004761
+PIAZZA CAPITINI;mercato;periodico;piazza Capitini;;;;;21;1;Martedì;08:00-13:00;44.494932124618344, 11.293511203462545
+VIA ENRICO MATTEI 24/D;mercato;mercato diffuso A;Via Enrico Mattei 24/d;piante e fiori;;;;1;;Lunedì-domenica;;44.49501012820091, 11.401382969065208
+FIERA DI SAN LUCA;fiera;periodico;via Altabella;;13;;;38;;Settimana precedente l'Ascensione, da due sabati precedenti alla domenica dell'Ascensione;09:30-20:00;44.495224491094206, 11.344932997301964
+VIA UGO BASSI 8/A;mercato;stagionale;Via Ugo Bassi 8/a;caldarroste;;;;;;20 settembre-15 marzo;;44.49534482643099, 11.339318556117966
+VIA INDIPENDENZA ANG. MONTEGRAPPA;mercato;stagionale;Via Indipendenza ang. Montegrappa;caldarroste;;;;;;20 settembre-15 marzo;;44.49539120855216, 11.342598775134277
+FIERA DI PASQUA;fiera;periodico;via Indipendenza angolo via Montegrappa;Dolciumi;1;;;;;dal sabato precedente la domenica delle Palme al Lunedì di Pasqua;08:30-20:00;44.49545622320144, 11.342716466891133
+FIERA DI SAN PETRONIO;fiera;periodico;via Altabella;Alimentari Dolciumi;2;;;;;4 ottobre;;44.49549579392907, 11.343267690821246
+DEL TRENO;mercato;periodico;piazza Giovanni XXIII;;;;;84;;Ogni seconda Domenica del mese;Invernale 08:00-17:00 estivo 08:00-18:00;44.495569097715965, 11.285165049662595
+VIA SANTE VINCENZI C/O MERCATO RIONALE;mercato;a turno giornaliero;via Sante Vincenzi;;;;;1;;Lunedì, Giovedì, Sabato;07:00-14:00;44.49607316061117, 11.364046034552043
+VIA SANTE VINCENZI (M.R.);mercato;a turno giornaliero;via Sante Vincenzi;;;;;1;;Lunedì-sabato;;44.49607950916415, 11.364108347073747
+VIA ZAMBONI;mercato produttori agricoli;a turno giornaliero;via Zamboni;prodotti agricoli;;;;;;Lunedì;Estivo: 18:00-21:00 Invernale: 17:30-20:30;44.496207073212325, 11.350707139410234
+FIERA DI CARNEVALE;fiera;periodico;via Indipendenza angolo via Goito;;;;;1;;Febbraio o Marzo (ultima domenica di Carnevale e martedì “grasso”, contestualmente alla sfilata dei carri allegorici);08:00-20:00;44.49703889762172, 11.343309955023045
+VINTAGE;mercato;periodico;piazza Puntoni;vendita di prodotti fabbricati almeno venti anni prima del momento attuale che abbiano caratterizzato un preciso periodo storico o un movimento;;;;12;;Martedì da marzo a giugno e da settembre a dicembre;09:00-17:00;44.49714885211349, 11.353344776169665
+VIA TOLMINO 7;mercato produttori agricoli;a turno giornaliero;via Tolmino 7;prodotti agricoli;;;;;;Lunedì;Estivo: 16:30-20:30 Invernale: 17:00-19:30;44.49774820918155, 11.318182155963425
+FIERA DELL'EPIFANIA;fiera;periodico;via Indipendenza 31;Dolciumi;1;;;;;2-6 gennaio – se l’Epifania cade di venerdì o sabato viene prolungata fino alla domenica;08:00-20:00;44.49808639622274, 11.343538980266423
+VIA DEL CARROZZAIO ANG. VIA DEL CERAMISTA;mercato;giornaliero periferico;Via del Carrozzaio ang. Via del Ceramista;prodotti alimentari;;;;;;tutti i giorni compresi i festivi;;44.49876961098259, 11.397005218374149
+PIAZZA VIII AGOSTO;mercato;mercato diffuso B;piazza VIII Agosto (porzione via Indipendenza);;;;;1;;martedì, mercoledì;;44.50000276386814, 11.344282108457582
+VIA SAN GIUSEPPE;mercato produttori agricoli;a turno giornaliero;via San Giuseppe;prodotti agricoli;;;;;;Giovedì;13:00-19:00;44.50008743954264, 11.343276031491632
+VIA INDIPENDENZA 53;mercato;stagionale;via Indipendenza 53;piante e fiori nonché composizioni di questi ultimi con articoli da regalo pertinenti al periodo purché costituiscano accessorio del prodotto principale;;;;;;14 febbraio, 8 marzo, 30 dicembre, 1 gennaio;;44.50009726767437, 11.344293205422701
+PIAZZA AZZARITA ANG. CALORI;mercato;mercato diffuso A;Piazza Azzarita ang. Calori;piante e fiori;;;;1;;Lunedì-domenica;;44.5002498782618, 11.33315462862497
+VIA BATTINDARNO;mercato;mercato diffuso B;via Battindarno 322;;;;;1;;giovedì, sabato;;44.500313040562915, 11.295788987879378
+LA PIAZZOLA;mercato;periodico;piazza VIII Agosto;non alimentare;;;;290;;Venerdì;08:00-17:00;44.50038944984743, 11.345360315865033
+VIA AZZO GARDINO;mercato produttori agricoli;a turno giornaliero;via Azzo Gardino piazzale della Cineteca;prodotti agricoli;;;;;;sabato;09:30-13:30;44.50217095332018, 11.334448066502114
+VIA TARTINI (C/O MERCATO) FRONTE CIVICO 3;mercato;mercato diffuso A;Via Tartini (c/o mercato) fronte civico 3;piante e fiori;;;;1;;Lunedì-domenica;;44.50223732704884, 11.36225460083636
+VIA MORAZZO;mercato produttori agricoli;a turno giornaliero;via Morazzo presso villa Bernaroli;prodotti agricoli;;;;;;Sabato;08:00-12:30;44.50242545425244, 11.25381403218481
+LARGO NIGRISOLI (INTERNO PARCHEGGIO PUBBLICO, NEI PRESSI DELLA PENSILINA DEI BUS);mercato;a turno giornaliero;Largo Nigrisoli;;;;;1;;Lunedì-sabato;;44.50383563812158, 11.314969474582865
+FIERA DEL LIBRO;fiera;periodico;Piazza XX Settembre (area pedonalizzata);Libri;;;;10;;Edizione primaverile: dal 18 marzo al 1 maggio Edizione autunnale: dal 12 ottobre al 25 novembre;08:30-19:30;44.50393068017853, 11.344881856476487
+VIA DEL LAVORO;mercato;periodico;via del Lavoro;;;;;9;1;Mercoledì;08:00-13:00;44.50459838527626, 11.359724739179335
+VIA GARAVAGLIA-PIAZZA SPADOLINI;mercato produttori agricoli;a turno giornaliero;via Garavaglia-piazza Spadolini;prodotti agricoli;;;;;;Martedì;08:30-13:30;44.504741746902646, 11.366908662517455
+PIAZZA TESTONI-PIAZZA DON GAVINELLI;mercato produttori agricoli;a turno giornaliero;piazza Testoni-piazza Don Gavinelli;prodotti agricoli;;;;;;Martedì;14:30-20:30;44.507991782518445, 11.346224385026398
+VIA EMILIA PONENTE (C/O MERCATO S.VIOLA);mercato;a turno giornaliero;via Emilia Ponente;;;;;1;;Lunedì-sabato;;44.508805400569805, 11.296554371126453
+VIA EMILIA PONENTE (C/O MERCATO S.VIOLA);mercato;a turno giornaliero;via Emilia Ponente;;;;;1;;Lunedì-sabato;;44.50884020768756, 11.2963746140319
+VIA DI VINCENZO FRONTE CIVICI 26-28;mercato;a turno giornaliero;via Di Vincenzo;;;;;1;;Lunedì-sabato;;44.50988295979328, 11.344572818680676
+VIA DI VINCENZO FRONTE CIVICI 26-28;mercato;a turno giornaliero;via Di Vincenzo;;;;;1;;Lunedì-sabato;;44.50999266781243, 11.344596512248275
+VIA ALBANI (M.R.);mercato;a turno giornaliero;via Albani;;;;;1;;Lunedì-sabato;;44.51026051907935, 11.344269602163447
+VIALE EUROPA;mercato;mercato diffuso B;viale Europa;;;;;1;;Lunedì-domenica;;44.511355174819116, 11.371979886112921
+PIAZZA DELLA COSTITUZIONE;mercato;stagionale;Piazza della Costituzione;prodotti alimentari;;;;;;manifestazioni fieristiche e non che si svolgono presso l’Ente Fiera;;44.51173798379947, 11.361822658708302
+VIA PIRANDELLO (IN PROSSIMITÀ CENTRO RICR. LA FATTORIA);mercato;a turno giornaliero;via Pirandello;;;;;1;;Lunedì-sabato;;44.51196943674538, 11.389208781132792
+VIA PIRANDELLO;mercato;mercato diffuso B;via Pirandello  (parcheggio Circolo La Fattoria);;;;;1;;Lunedì, Martedì, Giovedì, venerdì;;44.512014994488545, 11.389028425468414
+VIA DI CORTICELLA (FRONTE PAM);mercato;a turno giornaliero;via Corticella;;;;;1;;Lunedì-sabato;;44.51279424681682, 11.347187446595152
+CIMITERO DI BORGO PANIGALE INTERNO PARCHEGGIO CON ACCESSO DA VIA CAVALIERI DUCATI, NEI PRESSI DEI PARCHEGGI RISERVATI HANDICAP;mercato;stagionale;Cimitero di Borgo Panigale;piante e fiori, articoli per la cura delle piante, articoli funerari e religiosi, biglietti di rappresentanza ed oggettistica, purché la stessa costituisca accessorio della composizione floreale ed abbia valore  inferiore rispetto a quest'ultima;;;;;;25 ottobre-04 novembre;;44.51582264599077, 11.272298638455107
+VIA NORMANDIA;mercato;mercato diffuso A;Via Normandia – chiosco specializzato nella vendita di prodotti alimentari (da lunedì a sabato);alimentare;;;;1;;Lunedì-sabato;;44.52220600115188, 11.264506076107274
+VIA NORMANDIA;mercato;periodico;via Normandia;;;;;7;1;Giovedì;08:00-13:00;44.52289342125312, 11.264100440199265
+VIA NORMANDIA;mercato;periodico;via Normandia;;;;;5;1;Martedì;08:00-13:00;44.52290020855887, 11.264114838412002
+VIA ZANARDI (NEL PARCHEGGIO FRONTE BOCCIOFILA BOLOGNESE CIV. 230/2 - RETRO FERMATA BUS);mercato;a turno giornaliero;via Zanardi;;;;;1;;Lunedì-sabato;;44.52487681954727, 11.318308759160573
+VIA PRONI;mercato;mercato diffuso B;via Proni;;;;;1;;Lunedì-sabato;;44.52685176673034, 11.34962340043607
+VIA CRISTOFORO COLOMBO;mercato produttori agricoli;a turno giornaliero;via Cristoforo Colombo;prodotti agricoli;;;;;;sabato;07:30-13:30;44.529037154506796, 11.335383740632471
+LONDON-BENTINI;mercato;periodico;via London-via Bentini;;;;;20;1;Lunedì;08:00-13:00;44.54636929803729, 11.356960997892266
+VIA DELLA CERTOSA;mercato;stagionale;via della Certosa;prodotti alimentari;;;;;;In occasione delle manifestazioni sportive e non che si svolgono presso lo Stadio Comunale;;44.494862315018594, 11.31076676552362
+VIA MENABUE;mercato;stagionale;via Menabue;prodotti alimentari;;;;;;In occasione delle manifestazioni sportive e non che si svolgono presso lo Stadio Comunale;;44.49049648752393, 11.309161174463505
+PIAZZA SAN ROCCO-VIA DEL PRATELLO;mercato produttori agricoli;a turno giornaliero;piazza San Rocco-via del Pratello;prodotti agricoli;;;;;;Sabato;09:30-12:30;
+VIA SALVINI 6/A;mercato;mercato diffuso A;Via Salvini 6/a;piante e fiori;;;;1;;Lunedì-domenica;;44.5041804678571, 11.365662785627688
