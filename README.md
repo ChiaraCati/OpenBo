@@ -28,6 +28,12 @@ The goal of this project is to create an application that, through open data, wi
 
 Original dataset:
 
+Imprese culturali:
+* https://opendata.comune.bologna.it/explore/dataset/elenco-esercizi-pubblico-spettacolo/table/
+* https://opendata.comune.bologna.it/explore/dataset/storia-resilienza-mappatura-imprese-marzo-2021/table/?refine.sezione_sezione_prevalente_localizzazioni=R+-+ATTIVITÀ+ARTISTICHE,+SPORTIVE,+DI+INTRATTENIMENTO+E+DIVERTIMENTO
+* https://opendata.comune.bologna.it/explore/dataset/musei_gallerie_luoghi_e_teatri_storici/table/
+* https://opendata.comune.bologna.it/explore/dataset/eventi-bologna-agenda-cultura/table/?disjunctive.categories_1&disjunctive.online&disjunctive.quartiere
+
 ## 4.Quality analysis of the datasets 
 
 ## 5.Legal analysis(privacy, license, purpose, etc.)
