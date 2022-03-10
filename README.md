@@ -18,14 +18,15 @@ Bologna is one of the 246 cityes of the UNESCO Creative City Network. This proje
 
 All the parameters are covering some of European's Soustainable Grouth principle. it's included: gender equity, reduced inequality, good health and well-being, sustainable cities and communities, climate action etc. In this panorama Bologna distinguished in the Soustainabel Grouth and Enterprenourship principle. Thanks to initiative dedicated to creative industires, Bologna sets a strategic lever for economic attractiveness that in the midewhile stimulate urban regeneration. In 2010, the municipality has launched IncrediBol! is a sustainable mechanism for supporting creative entrepreneurship.
 
-Through regular calls for applications as well as access to trainings and consulting, it serves as springboard for young creative entrepreneurs to launch their start-ups. Building on a public-private network, it fosters open dialogue and knowledge sharing, supports the structuring of the local economic fabric, encourages the internationalization of emerging companies and provides them with opportunities at the European level. The professionals benefiting from this project can
-easily access affordable business premises provided by the municipality, which in turn contributes to breathing new life into deprived neighbourhoods. Since its launch, IncrediBol! has successfully helped over 95 creativity- led start-ups in all creative fields, from design to music and media arts.
+It acts as a jumping-off point for young creative entrepreneurs to develop their businesses. It stimulates open communication and knowledge exchange, supports the structuring of the local economic fabric, encourages the internationalization of developing enterprises, and offers them with opportunities at the European level, all while relying on a public-private network. Professionals who profit from this project will be able to quickly access inexpensive business space supplied by the municipality, which will help to revitalize neglected areas. Since its inception, IncrediBol! has aided over 95 creative start-ups in a wide range of sectors, including design, music, and media arts.
 
-The goal of this project is to create an application that, through open data, will describe the actual situation of Bologna in the Creative City panorama in order to make visible and explanable the improovmet of the city of Bologna thenks to initiative like Impossible, and in which field Bologna can improove in order to overcome possible issue rilevated. 
+The goal of this project is to create an application that, through open data, will describe the actual situation of Bologna in the Creative City panorama in order to make visible and explanable the improovmet of the city of Bologna thenks to initiative like IncrediBol!, and in which field Bologna can improove in order to overcome possible issue rilevated. 
 
 ## 2.Scenario 
 
 ## 3.Original dataset and mushup datasets 
+
+Original dataset:
 
 ## 4.Quality analysis of the datasets 
 
