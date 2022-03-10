@@ -34,6 +34,28 @@ Imprese culturali:
 * https://opendata.comune.bologna.it/explore/dataset/musei_gallerie_luoghi_e_teatri_storici/table/
 * https://opendata.comune.bologna.it/explore/dataset/eventi-bologna-agenda-cultura/table/?disjunctive.categories_1&disjunctive.online&disjunctive.quartiere
 
+Cultural centers:
+* https://opendata.comune.bologna.it/explore/dataset/workshop-bcn-mappatura-poi-completa-approfondimento-zone-di-interesse/table/
+* https://opendata.comune.bologna.it/explore/dataset/biblioteche-comunali-di-bologna/table/?disjunctive.biblioteca&disjunctive.quartiere
+* https://opendata.comune.bologna.it/explore/dataset/performance-delle-biblioteche-comunali/table/?disjunctive.biblioteca&disjunctive.tipologia&disjunctive.quartiere
+
+Social demographic data:
+* https://opendata.comune.bologna.it/explore/dataset/popolazione-residente-per-eta-sesso-cittadinanza-quartiere-zona-area-statistica-/table/?disjunctive.area_statistica&disjunctive.quartiere&disjunctive.zona&disjunctive.sesso&disjunctive.eta_grandi&disjunctive.eta&disjunctive.cittadinanza&sort=-anno
+* https://opendata.comune.bologna.it/explore/dataset/quartieri-statistiche-socio-demografiche/analyze/?dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJiYXIiLCJmdW5jIjoiU1VNIiwieUF4aXMiOiJ0aXRvbGFyaV9hbGxvZ2dpIiwic2NpZW50aWZpY0Rpc3BsYXkiOnRydWUsImNvbG9yIjoiI2ZmMDAwMCJ9XSwieEF4aXMiOiJxdWFydGllcmUiLCJtYXhwb2ludHMiOm51bGwsInNvcnQiOiJzZXJpZTEtMSIsInNlcmllc0JyZWFrZG93blRpbWVzY2FsZSI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoicXVhcnRpZXJpLXN0YXRpc3RpY2hlLXNvY2lvLWRlbW9ncmFmaWNoZSIsIm9wdGlvbnMiOnt9fX1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlLCJzaW5nbGVBeGlzIjpmYWxzZX0%3D
+
+City services:
+* https://opendata.comune.bologna.it/explore/dataset/rastrelliere-per-biciclette/table/
+* https://opendata.comune.bologna.it/explore/dataset/colonnine-elettriche/table/?disjunctive.zona&disjunctive.area_statistica&disjunctive.quartiere&sort=-progressivo
+* https://opendata.comune.bologna.it/explore/dataset/tper-fermate-autobus/table/?disjunctive.codice&disjunctive.codice_linea&disjunctive.quartiere&sort=-codice&refine.codice_linea=11
+* https://opendata.comune.bologna.it/explore/dataset/cammini-e-percorsi/table/
+* https://opendata.comune.bologna.it/explore/dataset/sosta-veicoli-a-servizio-di-persone-disabili-h/information/?sort=-n_progressivo
+* https://opendata.comune.bologna.it/explore/dataset/aree-verdi/table/
+* https://opendata.comune.bologna.it/explore/dataset/zona-pedonale-centro-storico/table/
+* https://opendata.comune.bologna.it/explore/dataset/piste-ciclopedonali/table/
+
+Chitizien partecipation:
+* https://opendata.comune.bologna.it/explore/dataset/bilancio-partecipativo-2019-2020/table/?disjunctive.nome&disjunctive.quartiere&sort=-tipo
+
 ## 4.Quality analysis of the datasets 
 
 ## 5.Legal analysis(privacy, license, purpose, etc.)
